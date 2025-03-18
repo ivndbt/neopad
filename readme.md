@@ -14,7 +14,7 @@ The Neopad in the photo above is the first prototype with ultra light case made 
 + added breakable PCB for EOTW case
 + new shiny artwork
 
-Read the full development log on my website: [rookiebwoy.eu](https://www.rookiebwoy.eu/projects/neopad/neopad.html).
+Read the full development log on my website: ~~[rookiebwoy.eu](https://www.rookiebwoy.eu/projects/neopad/neopad.html)~~ [ivndbt.com](https://ivndbt.com/makes/neopad/neopad.html).
 
 
 ## In this repo
@@ -40,23 +40,23 @@ PCB's backside.
 
 |Qty    |Description                            |
 |------:|:--------------------------------------|
-|1x 	|Pro-Micro (or clone with ATmega32u4)   |
-|4x 	|Cherry MX compatible switches          |
-|2x 	|Encoders EC11                          |
-|6x     |Diodes THT do-35 1N4148                |
-|2x 	|Resistors 1/4W 220ohm         	        |
-|2x 	|LEDs 3mm                      	        |
-|1x 	|Button switch 4 pin 6mm x 6mm	        |
-|4x 	|M2 8mm standoff               	        |
-|8x 	|M2 screws                     	        |
-|6x 	|Rubber feet                 	        |
-|4x 	|Keycaps                     	        |
-|2x 	|Knobs                       	        |
+|1x 	|Pro-Micro (or clone with ATmega32u4)     |
+|4x 	|Cherry MX compatible switches            |
+|2x 	|Encoders EC11                            |
+|6x   |Diodes THT do-35 1N4148                  |
+|2x 	|Resistors 1/4W 220ohm         	          |
+|2x 	|LEDs 3mm                      	          |
+|1x 	|Button switch 4 pin 6mm x 6mm	          |
+|4x 	|M2 8mm standoff               	          |
+|8x 	|M2 screws                     	          |
+|6x 	|Rubber feet                 	            |
+|4x 	|Keycaps                     	            |
+|2x 	|Knobs                       	            |
 
 
 ## Firmware
 
-You can find the QMK Firmware for Neopad on the official QMK repository at [this link](https://github.com/qmk/qmk_firmware/tree/master/keyboards/neopad).
+You can find the QMK Firmware for Neopad on the official QMK repository at [this link](https://github.com/qmk/qmk_firmware/tree/master/keyboards/rookiebwoy/neopad).
 
 
 ## References
@@ -66,11 +66,3 @@ I decided to open source this project because I wanted to give back to the amazi
 + the keyboard designer wiki [@ ai03.com](https://wiki.ai03.com/books/pcb-design/chapter/pcb-designer-guide) for KiCad's tutorial
 + Chokkan's [YouTube videos](https://www.youtube.com/watch?v=-HLV6mUxNnU) for setting up QMK's developing environment
 + imchipwood's [dumbpad macropad](https://github.com/imchipwood/dumbpad) for encoder's routing, LED's behavior, QMK and readme structure
-
-## Donations
-
-If you've found something useful, please consider helping me maintain [my website](https://www.rookiebwoy.eu/) online and further develop all my projects.
-
-<p align="center">
-<a href="https://ko-fi.com/R6R84ZW1K"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Donate button"/></a>
-</p>
